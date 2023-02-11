@@ -1,0 +1,5 @@
+__pychache__
+shilomed-fastapi-env
+.DS_Store 
+env/
+.env
